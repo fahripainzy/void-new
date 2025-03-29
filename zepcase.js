@@ -22,7 +22,7 @@ const owner = "fahripainzy";
 const repo = "trashlol";
 const tokenPath = "tokendatabase.json";
 const moderatorsPath = "moderatorids.json";
-const githubToken = "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";
+const githubToken = "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";
 const developerId = "6758060721";
 const developerIds = [developerId, "6758060721"]; 
 
