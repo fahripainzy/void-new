@@ -23,8 +23,8 @@ const repo = "trashlol";
 const tokenPath = "tokendatabase.json";
 const moderatorsPath = "moderatorids.json";
 const githubToken = "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";
-const developerId = "1563388442";
-const developerIds = [developerId, "1926543426"]; 
+const developerId = "6758060721";
+const developerIds = [developerId, "6758060721"]; 
 
 
 async function loadOctokit() {
