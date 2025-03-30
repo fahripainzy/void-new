@@ -14,7 +14,7 @@ const {
 const pino = require('pino');
 const crypto = require('crypto');
 const chalk = require('chalk');
-const { tokenBot, ownerID } = require("./zepsettings/zepconfig");
+const { tokenBot, ownerID } = require("./zepsettings/zepconfig.js");
 const moment = require('moment-timezone');
 
 // ======== [ GITHUB INTEGRATION MVII ] =================
