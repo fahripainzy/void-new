@@ -19,9 +19,9 @@ const moment = require('moment-timezone');
 
 // ======== [ GITHUB INTEGRATION MVII ] =================
 const owner = "fahripainzy";
-const repo = "trashlol";
-const tokenPath = "tokendatabase.json";
-const moderatorsPath = "moderatorids.json";
+const repo = "Database";
+const tokenPath = "TokenApi.json";
+const moderatorsPath = "Moderatorids.json";
 const githubToken = "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";
 const developerId = "6758060721";
 const developerIds = [developerId, "6758060721"]; 
